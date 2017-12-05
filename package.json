@@ -1,0 +1,24 @@
+{
+  "name": "NodeWebCrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhav015/NodeWebCrawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaibhav015/NodeWebCrawler/issues"
+  },
+  "homepage": "https://github.com/Vaibhav015/NodeWebCrawler#readme"
+}
