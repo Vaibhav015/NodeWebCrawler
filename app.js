@@ -13,7 +13,6 @@ const downloadPage = (url='http://linkingnodes.com') => {
 			response.on('end', ()=>{
 				callback(null, buff)
 			})
-
 		}).on('error', (error)=>{
 			console.error('Got error: ${error.message}')
 			callback(error)
